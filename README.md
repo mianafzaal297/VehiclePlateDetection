@@ -20,6 +20,10 @@ A MATLAB-based application for detecting and extracting vehicle license plate nu
 ✔ Toll collection systems  
 ✔ Security surveillance  
 
+## 👥 Team Members  
+- [Muhammad Afzaal](https://github.com/mianafzaal297)  
+- [Rubab Tahir](https://github.com/rubabkhanbzp)  
+
 💡 Future improvements: Real-time video feed processing & YOLO-based detection!  
 
 ## Screenshots
